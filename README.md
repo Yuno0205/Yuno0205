@@ -14,7 +14,7 @@
 ### 🚀 About Me
 - 🧑‍💻 I'm passionate about building clean and interactive web experiences  
 - 🛠 Currently working with **Next.js + TypeScript + Tailwind CSS**
-- 📦 Favorite side project: [`passenger`](https://github.com/Yuno0205/passenger) – modern coffee landing page ☕  
+- 📦 Favorite side project: [`space`](https://github.com/Yuno0205/space) - 🚀  
 - 🧠 Always learning: Performance optimization, GitHub Actions, Clean Code
 
 ---
