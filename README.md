@@ -19,6 +19,18 @@
 
 ---
 
+<p align="center">
+  <svg width="300" height="100" viewBox="0 0 300 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 50 Q150 0 290 50 Q150 100 10 50Z" 
+      stroke="#58A6FF" stroke-width="2" fill="none"
+      stroke-dasharray="1000" stroke-dashoffset="1000">
+      <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </svg>
+</p>
+
+---
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuno0205&show_icons=true&theme=radical" />
