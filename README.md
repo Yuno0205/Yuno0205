@@ -32,7 +32,7 @@
 
 ### 📫 Let's Connect!
 [![Gmail](https://img.shields.io/badge/-yuno0205@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yuno0205@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com) <!-- Thêm link nếu có -->
+ <!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com) -->
 
 
 ---
