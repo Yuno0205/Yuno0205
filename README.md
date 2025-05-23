@@ -31,21 +31,13 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuno0205&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Yuno0205&theme=radical&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuno0205&layout=compact&theme=radical" />
-</p>
 
 ---
 
 ### 📫 Let's Connect!
 [![Gmail](https://img.shields.io/badge/-yuno0205@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yuno0205@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com) <!-- Thêm link nếu có -->
-[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+
 
 ---
 
