@@ -29,10 +29,6 @@
   </svg>
 </p>
 
----
-
-
----
 
 ### 📫 Let's Connect!
 [![Gmail](https://img.shields.io/badge/-yuno0205@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yuno0205@gmail.com)
