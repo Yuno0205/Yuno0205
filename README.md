@@ -7,7 +7,7 @@
 ---
 
 ### 🧰 Tech Stack
-<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,js,html,css,figma,git" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,js,html,css,tailwind,mui,wordpress,figma,git," />
 
 ---
 
